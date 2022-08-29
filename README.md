@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/pavelvinnik/pavelvinnik2001/pavelvinnik200100359/138442223-startup-team-work-it-business-employees-trendy-flat-vector-concept-company-female-and-male-workers-p.jpg?fj=1)
+![MasterHead](https://previews.123rf.com/images/pavelvinnik/pavelvinnik2001/pavelvinnik200100359/138442223-startup-team-work-it-business-employees-trendy-flat-vector-concept-company-female-and-male-workers-p.jpg?fj=1)
 
 <h1 align="center">Hi 👋, I'm Pulak Bala</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
