@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/pavelvinnik/pavelvinnik2001/pavelvinnik200100359/138442223-startup-team-work-it-business-employees-trendy-flat-vector-concept-company-female-and-male-workers-p.jpg?fj=1)
+
 
 <h1 align="center">Hi 👋, I'm Pulak Bala</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/pulakbala" target="blank"><img src="https://img.shields.io/twitter/follow/pulakbala?logo=twitter&style=for-the-badge" alt="pulakbala" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **MEARN**
 
